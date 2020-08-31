@@ -1,0 +1,12 @@
+<md-card>
+    <form [formGroup]="form" (ngSubmit)="auth.register(form.value)">
+        <md-form-field>
+            <input mdInput type="email" placeholder="Email" formControlName="email">
+        </md-form-field>
+        <md-form-field>
+            <input mdInput type="password" placeholder="Password" formControlName="password">
+        </md-form-field>
+        <button md-raised-button color="primary" [disabled]="!form.valid">Register</button>
+    </form>
+</md-card>
+<div class="error">{{ error }}</div>
