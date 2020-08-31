@@ -1,1 +1,2 @@
-#Application-with-Angular_and_ASP.Net-Core_and_Entity-Framework-Core
+This project demonstrates a full stack application using Angular, ASP.Net Core and Entity Framework Core.
+
