@@ -10,12 +10,27 @@
 
 ![imag_3](https://github.com/a-rhodes-vcu/Quiz_Application-with-Angular_and_ASP.Net-Core_and_Entity-Framework-Core/blob/master/Images/Screen%20Shot%202020-08-31%20at%203.11.09%20PM.png)
 
-
 <h4>Once logged in a user can create a quiz, edit and add questions</h4>
 
 ![imag_4](https://github.com/a-rhodes-vcu/Quiz_Application-with-Angular_and_ASP.Net-Core_and_Entity-Framework-Core/blob/master/Images/Screen%20Shot%202020-08-31%20at%203.12.52%20PM.png)
 
 <h4>New quiz retrieved from the API</h4>
 
-![imag_4](https://github.com/a-rhodes-vcu/Quiz_Application-with-Angular_and_ASP.Net-Core_and_Entity-Framework-Core/blob/master/Images/Screen%20Shot%202020-08-31%20at%203.14.02%20PM.png)
+![imag_5](https://github.com/a-rhodes-vcu/Quiz_Application-with-Angular_and_ASP.Net-Core_and_Entity-Framework-Core/blob/master/Images/Screen%20Shot%202020-08-31%20at%203.14.02%20PM.png)
+
+<h4>Once the quiz is created questions can be added</h4>
+
+![imag_6](https://github.com/a-rhodes-vcu/Quiz_Application-with-Angular_and_ASP.Net-Core_and_Entity-Framework-Core/blob/master/Images/Screen%20Shot%202020-08-31%20at%203.14.34%20PM.png)
+
+![imag_7](https://github.com/a-rhodes-vcu/Quiz_Application-with-Angular_and_ASP.Net-Core_and_Entity-Framework-Core/blob/master/Images/Screen%20Shot%202020-08-31%20at%203.14.53%20PM.png)
+
+![imag_8](https://github.com/a-rhodes-vcu/Quiz_Application-with-Angular_and_ASP.Net-Core_and_Entity-Framework-Core/blob/master/Images/Screen%20Shot%202020-08-31%20at%203.17.25%20PM.png)
+
+<h4Questions retrieved from the API</h4>
+
+![imag_9](https://github.com/a-rhodes-vcu/Quiz_Application-with-Angular_and_ASP.Net-Core_and_Entity-Framework-Core/blob/master/Images/Screen%20Shot%202020-08-31%20at%203.24.23%20PM.png)
+
+
+
+
 
