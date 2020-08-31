@@ -30,7 +30,11 @@
 
 ![imag_9](https://github.com/a-rhodes-vcu/Quiz_Application-with-Angular_and_ASP.Net-Core_and_Entity-Framework-Core/blob/master/Images/Screen%20Shot%202020-08-31%20at%203.24.23%20PM.png)
 
-<Once a quiz is created a user can take it and receive a score>
+<h4>Once a quiz is created a user can take it and receive a score</h4>
+
+![imag_10](https://github.com/a-rhodes-vcu/Quiz_Application-with-Angular_and_ASP.Net-Core_and_Entity-Framework-Core/blob/master/Images/Screen%20Shot%202020-08-31%20at%204.09.32%20PM.png)
+ 
+
 
 
 
