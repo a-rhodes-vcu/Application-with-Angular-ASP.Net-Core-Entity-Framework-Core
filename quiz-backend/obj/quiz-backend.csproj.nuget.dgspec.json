@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/stylianouaf/Downloads/Ex_Files_Building_Apps_Angular_Core/Exercise Files/Quiz Application/quiz-backend/quiz-backend.csproj": {}
+  },
+  "projects": {
+    "/Users/stylianouaf/Downloads/Ex_Files_Building_Apps_Angular_Core/Exercise Files/Quiz Application/quiz-backend/quiz-backend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/stylianouaf/Downloads/Ex_Files_Building_Apps_Angular_Core/Exercise Files/Quiz Application/quiz-backend/quiz-backend.csproj",
+        "projectName": "quiz-backend",
+        "projectPath": "/Users/stylianouaf/Downloads/Ex_Files_Building_Apps_Angular_Core/Exercise Files/Quiz Application/quiz-backend/quiz-backend.csproj",
+        "packagesPath": "/Users/stylianouaf/.nuget/packages/",
+        "outputPath": "/Users/stylianouaf/Downloads/Ex_Files_Building_Apps_Angular_Core/Exercise Files/Quiz Application/quiz-backend/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/stylianouaf/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
