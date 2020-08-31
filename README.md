@@ -15,9 +15,7 @@
 
 ![imag_4](https://github.com/a-rhodes-vcu/Quiz_Application-with-Angular_and_ASP.Net-Core_and_Entity-Framework-Core/blob/master/Images/Screen%20Shot%202020-08-31%20at%203.12.52%20PM.png)
 
+<h4>New quiz retrieved from the API</h4>
 
-
-<h4></h4>
-
-![imag_6](https://github.com/a-rhodes-vcu/Quiz_Application-with-Angular_and_ASP.Net-Core_and_Entity-Framework-Core/blob/master/Images/Screen%20Shot%202020-08-31%20at%203.14.02%20PM.png)
+![imag_4](https://github.com/a-rhodes-vcu/Quiz_Application-with-Angular_and_ASP.Net-Core_and_Entity-Framework-Core/blob/master/Images/Screen%20Shot%202020-08-31%20at%203.14.02%20PM.png)
 
