@@ -3,5 +3,8 @@
 <h2>Brief Overview</h2>
 
 Screen Shot 2020-08-31 at 3.01.11 PM.png
-(/Images//Screen Shot 2020-08-31 at 3.01.11 PM.png)
+(/Images/Screen Shot 2020-08-31 at 3.01.11 PM.png)
+
+![GitHub Logo](/Images/Screen Shot 2020-08-31 at 3.01.11 PM.png)
+Format: ![Alt Text](url)
 
