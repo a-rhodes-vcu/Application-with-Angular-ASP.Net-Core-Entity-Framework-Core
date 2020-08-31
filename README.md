@@ -9,3 +9,8 @@
 <h4>HTTP request below. User login data sent by POST request to the back end</h4>
 
 ![imag_3](https://github.com/a-rhodes-vcu/Quiz_Application-with-Angular_and_ASP.Net-Core_and_Entity-Framework-Core/blob/master/Images/Screen%20Shot%202020-08-31%20at%203.11.09%20PM.png)
+
+
+<h4>Once logged in a user can create a quiz, edit and add questions</h4>
+
+![imag_4](https://github.com/a-rhodes-vcu/Quiz_Application-with-Angular_and_ASP.Net-Core_and_Entity-Framework-Core/blob/master/Images/Screen%20Shot%202020-08-31%20at%203.12.25%20PM.png)
